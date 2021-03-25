@@ -1,4 +1,4 @@
-# Jupyter_Notebooks
+# Projects
 A repository to store my projects 
 
 Python/jupyter notebooks
